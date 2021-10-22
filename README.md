@@ -1,4 +1,4 @@
- whatsapp-chat-analysis
+ # whatsapp-chat-analysis
 
 Introduction
 Today one of the trendy social media platforms is…. guess what? One and only Whatsapp😅. It is one of the favorite social media platforms among all of us because of its attractive features. It has more than 2B users worldwide and “According to one survey an average user spends more than 195 minutes per week on WhatsApp”. How terrible the above statement is. Leave all these things and let’s understand what actually WhatsApp analyzer means?
