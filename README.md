@@ -6,14 +6,14 @@ Today one of the trendy social media platforms is…. guess what? One and only W
  WhatsApp Analyzer means we are analyzing our WhatsApp group activities. It tracks our conversation and analyses how much time we are spending or saying it as “wasting” on WhatsApp. The aim of this article is to provide step by step guide to build our own WhatsApp analyzer using python. Here I used different python libraries which help me to extract useful information from raw data. Here I choose my college official WhatsApp group to analyze the pattern students were following therefore in some of the snapshots I blur the contact information of my college faculty and my classmates, sorry for that. So let’s begin…
 
 Required libraries : 
-Regex
-Pandas
-Matplotlib
-Numpy
-Seaborn
-Datetime
-Emoji
-Wordcloud
-Heatmapz
-NLTK
-Plotly
+Regex,
+Pandas,
+Matplotlib,
+Numpy,
+Seaborn,
+Datetime,
+Emoji,
+Wordcloud,
+Heatmapz,
+NLTK,
+Plotly,
